@@ -1,0 +1,2 @@
+"Call Forwarding System Simulator Implementation"
+The scope of the project is limited to building  a call forwarding simulator application  consisting of a server with configurable database and client(s). Server provides call forwarding services. It validates a client connection request, and if requested client has enabled call forwarding service, then it establishes connection between the requesting client and intended forwarding client. Otherwise it establishes connection between the requesting client and requested client. Client can enable/disable service at run time		
